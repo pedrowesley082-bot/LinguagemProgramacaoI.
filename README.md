@@ -12,3 +12,5 @@ Como aluno que possui uma base quase inexistente em programação, acredito que 
 
 Desde muito jovem sempre tive grande interesse por jogos digitais e curiosidade em entender como eles eram criados. Com o tempo, descobri que os jogos envolvem diversos conceitos da programação, como lógica, estrutura e criatividade.
 Esse interesse me motivou a aprender programação, principalmente a lógica por trás do funcionamento dos sistemas, para que futuramente eu possa desenvolver meus próprios projetos — quem sabe até criar um jogo desenvolvido por mim. A possibilidade de criar algo do zero por meio da programação é algo que considero realmente fascinante.
+
+
